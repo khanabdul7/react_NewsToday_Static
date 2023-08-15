@@ -1,0 +1,396 @@
+{
+"status": "ok",
+"totalResults": 69,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "Tech Explorist"
+},
+"author": "Dr. Prajakta Banik",
+"title": "Scientists uncover 135 novel genes controlling skin pigmentation - Tech Explorist",
+"description": "Revealing the factors behind human pigmentation: Genome-wide genetic search.",
+"url": "https://www.techexplorist.com/scientists-uncover-135-novel-genes-controlling-skin-pigmentation/66767/",
+"urlToImage": "https://www.techexplorist.com/wp-content/uploads/2023/08/ostoclast-1-1024x454.jpg",
+"publishedAt": "2023-08-14T06:13:28Z",
+"content": "In a recent breakthrough, scientists have discovered 135 new genes related to skin color and pigmentation. These genes significantly determine skin color, hair, and eyes by producing a pigment called… [+3314 chars]"
+},
+{
+"source": {
+"id": "the-hindu",
+"name": "The Hindu"
+},
+"author": "The Hindu",
+"title": "Harsh realities of space mean Chandrayaan 3 is a partial success to start - The Hindu",
+"description": null,
+"url": "https://www.thehindu.com/sci-tech/science/solar-wind-outgassing-chandrayaan-3-radiation-hardened-mission/article67188124.ece",
+"urlToImage": null,
+"publishedAt": "2023-08-14T05:00:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "HT Tech",
+"title": "Aircraft-sized asteroid set for Earth approach today! NASA reveals details - HT Tech",
+"description": "An Apollo group asteroid could make its closest approach to Earth today as its orbit will bring it dangerously close to the planet. Know details such as its speed, size, and distance, as per NASA.",
+"url": "https://tech.hindustantimes.com/tech/news/aircraftsized-asteroid-set-for-earth-approach-today-nasa-reveals-details-71691988374031.html",
+"urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/asteroid_1681212528521_1691988457950.jpg",
+"publishedAt": "2023-08-14T04:48:04Z",
+"content": "NASA's Double Asteroid Redirection Test or DART, was carried out in September last year with the space agency smashing a spacecraft into the Dimorphos asteroid to knock it off its course. It was the … [+2139 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Chethan Kumar",
+"title": "Not Just Moon: Isro’s Aditya-L1, India’s first Solar mission, reaches spaceport - IndiaTimes",
+"description": "India News: Aditya-L1 will be able to orbit the Sun without the planet eclipsing its view and carrying seven payloads to observe it. The results are expected to y",
+"url": "https://timesofindia.indiatimes.com/india/not-just-moon-isros-aditya-l1-indias-first-solar-mission-reaches-spaceport/articleshow/102710706.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-102710694,width-1070,height-580,imgsize-40646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2023-08-14T04:20:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "HT Tech",
+"title": "Hottest Planet in the solar system: Mercury closest to Sun, but shockingly, Venus beats it - HT Tech",
+"description": "Venus, our neighboring planet, holds the record for the solar system's hottest planet. Its scorching temperatures are a result of a thick greenhouse atmosphere and other unique factors.",
+"url": "https://tech.hindustantimes.com/tech/news/hottest-planet-in-the-solar-system-mercury-closest-to-sun-but-shickingly-venus-beats-it-71691986197523.html",
+"urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/Venus_1691986405556_1691986405778.jpg",
+"publishedAt": "2023-08-14T04:14:31Z",
+"content": "When it comes to scorching temperatures, no planet in our solar system can hold a candle to Venus. Often referred to as Earth's \"sister planet\" due to their similar size and composition, Venus stands… [+2395 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "HT News Desk",
+"title": "Morning brief: Chandrayaan-3 moves closer to Moon, next orbital manoeuver today - Hindustan Times",
+"description": "Here are today’s top news, analysis, and opinion. Know all about the latest news and other news updates from Hindustan Times. | Latest News India",
+"url": "https://www.hindustantimes.com/india-news/morning-brief-chandrayaan-3-moves-closer-to-moon-next-orbital-manoeuver-today-all-the-latest-news-101691982982280.html",
+"urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/14/1600x900/isro_1691570551404_1691985556564.png",
+"publishedAt": "2023-08-14T04:03:28Z",
+"content": "Chandrayaan-3's next lunar orbital manoeuvre today.\r\nThe Indian Space Research Organisation (ISRO) said Chandrayaan-3, India's third lunar mission is getting closer to the Moon and it will perform an… [+1522 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "HT Tech",
+"title": "Solar flare danger! Earth-facing sunspot could unleash M-class flares - HT Tech",
+"description": "Terrifying M-class solar flares could be on the cards as a sunspot facing the Earth has developed an unstable “beta-delta” field, reports NASA’s Solar Dynamics Observatory.",
+"url": "https://tech.hindustantimes.com/tech/news/solar-flare-danger-earth-facing-sunspot-could-unleash-m-class-flares-71691980944804.html",
+"urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/brano-tLFHQIqALz0-unsplash_1685329752753_1691981052807.jpg",
+"publishedAt": "2023-08-14T02:44:40Z",
+"content": "Solar flares are classified according to their strength on the logarithmic scale, similar to how earthquakes are measured, according to NASA. The smallest ones are A-class which occur at near backgro… [+1909 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TNN",
+"title": "Bengaluru scientists discover new star - IndiaTimes",
+"description": "A new star has struck at the roots of scientists’ previous understanding of star formation processes by showing signs of having formed through the co",
+"url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-scientists-discover-new-star/articleshow/102707250.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-102708816,width-1070,height-580,imgsize-496897,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2023-08-14T02:41:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Uniindia.com"
+},
+"author": "Uniindia News Service",
+"title": "Russia's lunar mission Luna-25 transmits first scientific data to Earth - United News of India",
+"description": "Moscow, Aug 14 (UNI) The scientific devices of Russia''s Luna-25 lunar mission went activate and carried out their first measurements on Sunday, the Russian space corporation Roscosmos said.",
+"url": "http://www.uniindia.com/russia-s-lunar-mission-luna-25-transmits-first-scientific-data-to-earth/world/news/3030425.html",
+"urlToImage": "http://www.uniindia.net/cms/gall_content/2023/8/2023_8$largeimg14_Aug_2023_085249883.jpg",
+"publishedAt": "2023-08-14T02:36:00Z",
+"content": "Moscow, Aug 14 (UNI) The scientific devices of Russia's Luna-25 lunar mission went activate and carried out their first measurements on Sunday, the Russian space corporation Roscosmos said.\r\nThe firs… [+630 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Global Village space"
+},
+"author": null,
+"title": "Space Industry Launches Green Revolution | TechCrunch - Global Village space",
+"description": "<p>Rocket launches and the environmental impact: A call for sustainability in the space industry. Learn about the carbon emissions and emerging green solutions.</p>",
+"url": "https://www.globalvillagespace.com/tech/space-industry-launches-green-revolution-techcrunch/",
+"urlToImage": "https://8nl4ghmpqwkr.wpcdn.shift8cdn.com/tech/wp-content/uploads/2023/08/space-industry-launches-green-revolution-techcrunch-jpg.webp",
+"publishedAt": "2023-08-14T02:33:58Z",
+"content": "Rocket Launches and the Environmental Impact: A Call for Sustainability in the Space Industry\r\nIntroduction\r\nRocket launches have always captivated our imagination with their spectacular displays of … [+4245 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Opp.today"
+},
+"author": "Joel Soisson",
+"title": "Chandrayaan 3: Next Orbit Reduction Maneuver Scheduled for August 14 - OPP.Today",
+"description": "Chandrayaan 3: Next Orbit Reduction Maneuver Scheduled for August 14 - OPP.Today",
+"url": "https://www.opp.today/news2/chandrayaan-3-latest-update-next-operation-tomorrow-heres-all-you-need-to-know/9990/",
+"urlToImage": "https://www.opp.today/wp-content/uploads/2023/08/mfrack_realistic_photo_of_men_using_smartphone_or_computer_on_o_495a6b2c-40a1-46ee-934b-3ba0056ce37f.png",
+"publishedAt": "2023-08-13T23:33:12Z",
+"content": "The next orbit reduction maneuver for India’s Chandrayaan-3 spacecraft is scheduled to take place on August 14. This maneuver will bring the spacecraft closer to the Moon’s surface. The previous orbi… [+1695 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "News.cn"
+},
+"author": "",
+"title": "In pics: Perseid meteor shower over Haba Lake nature reserve in NW China - Xinhua",
+"description": "",
+"url": "https://english.news.cn/20230814/f4cdfc71d8004c3b86b59ccdf598245d/c.html",
+"urlToImage": null,
+"publishedAt": "2023-08-13T23:19:46Z",
+"content": "Astronomy enthusiastss watch the stars at Haba Lake Observatory, Yanchi County, northwest China's Ningxia Hui Autonomous Region, Aug. 13, 2023. (Xinhua/Wang Peng)\r\nThis photo taken on Aug. 12, 2023 s… [+652 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "VOA News"
+},
+"author": "VOA Learning English",
+"title": "Sea Reptile Fossils Suggest It Was a Filter-feeder - VOA Learning English",
+"description": "Researchers found fossils of an ancient sea reptile that suggest it filter fed. Researchers believed in lived 248 million years ago after Earth’s worst mass extinction.",
+"url": "https://learningenglish.voanews.com/a/sea-reptile-fossils-suggest-it-was-a-filter-feeder/7218533.html",
+"urlToImage": "https://gdb.voanews.com/996090ea-2b0e-486e-82ce-4100e8a160fe_cx5_cy0_cw91_w1200_r1.jpg",
+"publishedAt": "2023-08-13T21:56:28Z",
+"content": "Baleen whales, such as the blue whale, are huge sea animals. Baleen describes a filter-feeding system in their mouths through which they can eat huge amounts of very small ocean animals.\r\nBut, it app… [+3661 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"author": "HT Tech",
+"title": "What is the temperature of Jupiter, Saturn, Venus to Mars and other planets in solar system - HT Tech",
+"description": "What is the temperature ofJupiter Saturn Venus to Mars and other planets in solar system The temperatures of planets generally follow a trend from hotter to colder based on their distance from the Sun. However Venus defies this pattern. Lets explore the mean …",
+"url": "https://tech.hindustantimes.com/web-stories/what-is-the-temperature-of-jupiter-saturn-venus-to-mars-and-other-planets-in-solar-system-71691980747764.html",
+"urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/14/1600x900/What_is_the_temperature_of_planets_1691981181935_1691981182300.jpg/",
+"publishedAt": "2023-08-13T21:49:07Z",
+"content": "Photo Credit: Pexels\r\n The temperatures of planets generally follow a trend from hotter to colder based on their distance from the Sun. However, Venus defies this pattern. Let's explore the mean temp… [+2086 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Artemis astronauts get first look at their spacecraft for moon voyage - AP Archive",
+"description": "(8 Aug 2023) RESTRICTION SUMMARY: MUST CREDIT NASA++ON-SCREEN GRAPHICS AT SOURCE++NASA - Must credit NASACape Canaveral, Florida - 8 August 20231. SOUNDBITE ...",
+"url": "https://www.youtube.com/watch?v=A_FcNWp3-xY",
+"urlToImage": "https://i.ytimg.com/vi/A_FcNWp3-xY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgWShlMA8=&rs=AOn4CLDk-45NSZfD76v7SNLRe64tRSArFQ",
+"publishedAt": "2023-08-13T21:14:06Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "WION"
+},
+"author": "Wion",
+"title": "IN PICS | Perseid meteor shower peaks, lights up skies across the world - WION",
+"description": "IN PICS | Perseid meteor shower peaks, lights up skies across the world",
+"url": "https://www.wionews.com/photos/in-pics-perseid-meteor-shower-peaks-lights-up-skies-across-the-world-625147",
+"urlToImage": "https://cdn.wionews.com/sites/default/files/2023/08/14/372963-wion-images-2023-08-14t012649773.png",
+"publishedAt": "2023-08-13T20:55:49Z",
+"content": "What is the Perseid meteor shower?\r\nAccording to NASA, the Perseid meteor shower occurs when Earth passes through the debris trail from the comet 109P/Swift-Tuttle, causing particles left behind by t… [+3086 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Opp.today"
+},
+"author": "Joel Soisson",
+"title": "Early Detection of Grape Disease using NASA Technology offers Hope for Vineyards - OPP.Today",
+"description": "Early Detection of Grape Disease using NASA Technology offers Hope for Vineyards - OPP.Today",
+"url": "https://www.opp.today/news2/nasa-spots-grape-disease-early-from-the-sky/10303/",
+"urlToImage": "https://www.opp.today/wp-content/uploads/2023/08/mfrack_a_man_using_smartphone_or_computer_on_outdoor_eb55c41a-6971-4c08-871c-c0904e1fb8db.png",
+"publishedAt": "2023-08-13T20:47:12Z",
+"content": "Up to 30% of global grape harvests are affectedpathogens, including bacteria, mold, and viruses, resulting in significant financial losses each year. However, researchers using technology from NASA’s… [+2052 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Phys.Org"
+},
+"author": "Juliette Collen",
+"title": "Mars once had wet-dry climate conducive to supporting life: Study - Phys.org",
+"description": "NASA's Curiosity rover has discovered the first evidence that Mars once had a climate which alternated between wet and dry seasons similar to Earth, a study said on Wednesday, suggesting the red planet may have once had the right conditions to support life.",
+"url": "https://phys.org/news/2023-08-mars-wet-dry-climate-conducive-life.html",
+"urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/an-image-taken-by-the.jpg",
+"publishedAt": "2023-08-13T17:50:01Z",
+"content": "NASA's Curiosity rover has discovered the first evidence that Mars once had a climate which alternated between wet and dry seasons similar to Earth, a study said on Wednesday, suggesting the red plan… [+3240 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TIMESOFINDIA.COM",
+"title": "James Webb telescope captures image of farthest star ever seen - IndiaTimes",
+"description": "Science News: Utilizing the James Webb Space Telescope, astronomers have successfully gazed upon Earendel, marking the most remote star ever identified. Although in",
+"url": "https://timesofindia.indiatimes.com/home/science/james-webb-telescope-captures-image-of-farthest-star-ever-seen/articleshow/102701598.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-102701664,width-1070,height-580,imgsize-45718,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2023-08-13T16:42:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "SciTechDaily"
+},
+"author": null,
+"title": "Breaking Physics: Muon G-2 Experiment Reinforces Surprise Result, Setting Up “Ultimate Showdown” - SciTechDaily",
+"description": "Findings at Fermilab show discrepancy between theory and experiment, which may lead to new physics beyond the Standard Model. Physicists now have a brand-new measurement of a property of the muon called the anomalous magnetic moment that improves the precisio…",
+"url": "https://scitechdaily.com/breaking-physics-muon-g-2-experiment-reinforces-surprise-result-setting-up-ultimate-showdown/",
+"urlToImage": "https://scitechdaily.com/images/Sub-Atomic-Particle-Quantum-Physics-Art-Illustration.jpg",
+"publishedAt": "2023-08-13T15:33:40Z",
+"content": "ByFermi National Accelerator LaboratoryAugust 13, 2023\r\nFermilabs Muon g-2 experiment has unveiled a new precision measurement of the muons magnetic property, hinting at undiscovered particles and a … [+10610 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bizzbuzz.news"
+},
+"author": "IANS",
+"title": "Storms can last for 100 years on Saturn: Study - Bizz Buzz",
+"description": "Astronomers looked at radio emissions from Saturn, which come from below the surface, and found long-term disruptions in the distribution of ammonia gas",
+"url": "https://www.bizzbuzz.news/LifeStyle/storms-can-last-for-100-years-on-saturn-study-1240055",
+"urlToImage": "https://www.bizzbuzz.news/h-upload/2023/08/13/1762214-saturn.jpg",
+"publishedAt": "2023-08-13T15:27:09Z",
+"content": "New York: Saturn has long-lasting megastorms with impacts deep in the atmosphere that persist for centuries, according to a new study. \r\nPreviously, only Jupiter was known to have megastorms. The lar… [+1940 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "GrrlScientist",
+"title": "Mitochondria Hold The Secret Of The Origins Of Cellular Complexity On Earth - Forbes",
+"description": "Marine bacteria found in hot springs may be the closest living relatives of the ancient bacteria that gave rise to modern mitochondria more than a billion years ago",
+"url": "https://www.forbes.com/sites/grrlscientist/2023/08/13/mitochondria-hold-the-secret-of-the-origins-of-cellular-complexity-on-earth/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d62f29757b03fa9493ab70/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2023-08-13T15:17:08Z",
+"content": "Marine bacteria found in hot springs may be the closest living relatives of the ancient bacteria that gave rise to modern mitochondria more than a billion years ago\r\n© Copyright by GrrlScientist | ho… [+6418 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Singularity Hub"
+},
+"author": "Guido Roberts-Borsani",
+"title": "Looking Back Toward Cosmic Dawn—Astronomers Confirm the Faintest Galaxy Ever Seen - Singularity Hub",
+"description": "In its early years, the universe was filled with a fog of hydrogen atoms that obscured light from the earliest stars and galaxies.",
+"url": "https://singularityhub.com/2023/08/13/looking-back-toward-cosmic-dawn-astronomers-confirm-the-faintest-galaxy-ever-seen/",
+"urlToImage": "https://singularityhub.com/wp-content/uploads/2023/08/space-galaxy-stars.jpg",
+"publishedAt": "2023-08-13T14:00:54Z",
+"content": "The universe we live in is a transparent one, where light from stars and galaxies shines bright against a clear, dark backdrop. But this wasnt always the casein its early years, the universe was fill… [+6526 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "SlashGear"
+},
+"author": "Nadeem Sarwar",
+"title": "Earth's Umbrella: How A Solar Shield Tethered To An Asteroid Could Fight Climate Change - SlashGear",
+"description": "Scientists are mulling over an innovative way to shield the Earth from harmful sun events, which may also have climate change effects.",
+"url": "https://www.slashgear.com/1362197/earth-umbrella-solar-shield-asteroid-climate-change/",
+"urlToImage": "https://www.slashgear.com/img/gallery/earths-umbrella-how-a-solar-shield-tethered-to-an-asteroid-could-fight-climate-change/l-intro-1691616159.jpg",
+"publishedAt": "2023-08-13T13:00:29Z",
+"content": "In order to create a shield of sufficient mass that is capable of counter-balancing the gravitational pull and effectively counteract the solar radiation pressure, a massive weight is required. This … [+1327 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Opp.today"
+},
+"author": "Brandon Vincent",
+"title": "Scientists Identify Fossil FoundAustralian Farmer as Ancient Amphibian with Tusks - OPP.Today",
+"description": "Scientists Identify Fossil FoundAustralian Farmer as Ancient Amphibian with Tusks - OPP.Today",
+"url": "https://www.opp.today/news2/scientists-solve-australian-chicken-farmers-fossil-mystery/9750/",
+"urlToImage": "https://www.opp.today/wp-content/uploads/2023/08/mfrack_mens_using_smartphone_or_computer_on_outdoor_9f815b47-9bcf-44df-90a9-46b16ed30054.png",
+"publishedAt": "2023-08-13T12:16:05Z",
+"content": "A fossil discoveredan Australian chicken farmer in the 1990s has finally been identified as an ancient amphibian with tusks and “gnarly teeth.” The 240 million-year-old fossil was foundMihail Mihaili… [+1477 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applevalleynewsnow.com"
+},
+"author": "Kristen Rogers and Ashley Strickland, CNN",
+"title": "NASA telescope spots cosmic question mark in deep space - AppleValleyNewsNow.com",
+"description": "(CNN) — A cosmic object in the shape of a glowing question mark has photobombed one of the latest images captured by NASA’s James Webb Space Telescope — and scientists",
+"url": "https://www.applevalleynewsnow.com/news/world-news/nasa-telescope-spots-cosmic-question-mark-in-deep-space/article_37f94782-4be3-50b4-b16b-46ad4b45460b.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/applevalleynewsnow.com/content/tncms/custom/image/b6f351d0-15fb-11ee-93c6-17f1114abbd2.png?resize=600%2C192",
+"publishedAt": "2023-08-13T12:00:09Z",
+"content": "(CNN) A cosmic object in the shape of a glowing question mark has photobombed one of the latest images captured by NASAs James Webb Space Telescope and scientists think they know what it might be.\r\nT… [+3875 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Live Science"
+},
+"author": "Jamie Carter",
+"title": "'Ring of fire' solar eclipse 2023: How to watch in-person (and virtually) - Livescience.com",
+"description": "On Oct. 14, an epic 'ring of fire' annular solar eclipse will swoop across North America, providing once-in-a-lifetime views for several states. Here’s how to watch, no matter where you are.",
+"url": "https://www.livescience.com/space/the-sun/ring-of-fire-solar-eclipse-2023-how-to-watch-in-person-and-virtually",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/owaEVwmFrXiGykd7y55iRL-1200-80.jpg",
+"publishedAt": "2023-08-13T12:00:00Z",
+"content": "A \"ring of fire,\" or annular solar eclipse, will be visible from eight US states on Oct. 14, 2023 — the first time such a celestial view was available in North America. During the event, sky-watchers… [+3064 chars]"
+},
+{
+"source": {
+"id": "wired",
+"name": "Wired"
+},
+"author": "Philip Ball",
+"title": "A New Idea for How to Assemble Life - WIRED",
+"description": "How would scientists even recognize biological signs of life beyond Earth? Assembly theory proposes a way to identify molecules made by living systems—even those using unfamiliar chemistries.",
+"url": "https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/",
+"urlToImage": "https://media.wired.com/photos/64d633fd2db7cd67f965363d/191:100/w_1280,c_limit/Quanta_AssemblyTheory-bySamuelVelasco-Lede-scaled-copy.jpg",
+"publishedAt": "2023-08-13T12:00:00Z",
+"content": "According to assembly theory, before Darwinian evolution can proceed, something has to select for multiple copies of high-AI objects from the Assembly Possible. Chemistry alone, Cronin said, might be… [+3395 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Uniindia.com"
+},
+"author": "Uniindia News Service",
+"title": "Chandryaaan-3 third orbit reduction maneuver tomorrow - United News of India",
+"description": "Chennai, Aug 13 (UNI) Having moved even closer to the moon with the<br />second orbit reduction, the third orbit reduction operation will be<br />performed on India''s third Lunar Mission Chandrayaan-3 on Monday.",
+"url": "http://www.uniindia.com/news/south/chandryaaan-3-third-orbit-reduction-maneuver-tomorrow/3030150.html",
+"urlToImage": "http://www.uniindia.net/cms/gall_content/2023/8/2023_8$largeimg13_Aug_2023_175600790.jpg",
+"publishedAt": "2023-08-13T11:56:00Z",
+"content": "Chennai, Aug 13 (UNI) Having moved even closer to the moon with the\r\nsecond orbit reduction, the third orbit reduction operation will be\r\nperformed on India's third Lunar Mission Chandrayaan-3 on Mon… [+1877 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Meteor Shower 2023 | Meteor Shower Lights Up Stars Over Balkans | News18 #shorts #viral - CNN-News18",
+"description": "Meteor Shower 2023 | Meteor Shower Lights Up Stars Over Balkans | News18 #meteorsshower #meteor #englishnews #news18 #cnnnews18 #shorts #viral n18oc_shorts",
+"url": "https://www.youtube.com/watch?v=6hfEz06DFX4",
+"urlToImage": "https://i.ytimg.com/vi/6hfEz06DFX4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYESBdKHIwDw==&rs=AOn4CLABVF_3H5PO_qaP_QeFsLVcJINghg",
+"publishedAt": "2023-08-13T11:28:28Z",
+"content": null
+}
+]
+}
